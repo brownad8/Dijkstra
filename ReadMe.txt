@@ -1,0 +1,1 @@
+Main.java takes the file path as a command line argument (args[0]).
